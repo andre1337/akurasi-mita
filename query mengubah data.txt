@@ -1,0 +1,7 @@
+
+
+SELECT * FROM `tb_datauji` WHERE k3='olahraga' and kategori='Budaya'
+
+
+SELECT * FROM `tb_datauji` WHERE k5='tidak ada' and kategori='Budaya'
+SELECT * FROM `tb_datauji` WHERE k3='olahraga' and kategori='Budaya'
